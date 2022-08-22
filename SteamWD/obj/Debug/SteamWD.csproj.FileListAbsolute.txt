@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\SteamWD\bin\Debug\SteamWD.exe.config
+C:\Users\Administrator\Desktop\SteamWD\bin\Debug\SteamWD.exe
+C:\Users\Administrator\Desktop\SteamWD\bin\Debug\SteamWD.pdb
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.Form1.resources
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.exe
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.pdb
+C:\Users\Administrator\Desktop\SteamWD\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Administrator\Desktop\SteamWD\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Administrator\Desktop\SteamWD\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Administrator\Desktop\SteamWD\obj\Debug\SteamWD.csproj.CopyComplete
